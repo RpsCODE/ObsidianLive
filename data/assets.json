@@ -1,0 +1,77 @@
+[
+  {
+    "origin": "contercraft",
+    "source": "assets/contercraft/textures/item/compressed_ender_pearl.png",
+    "web": "assets/textures/contercraft/compressed_ender_pearl.png"
+  },
+  {
+    "origin": "contercraft",
+    "source": "assets/contercraft/textures/item/ender_bundle.png",
+    "web": "assets/textures/contercraft/ender_bundle.png"
+  },
+  {
+    "origin": "contercraft",
+    "source": "assets/contercraft/textures/item/food/baguette.png",
+    "web": "assets/textures/contercraft/baguette.png"
+  },
+  {
+    "origin": "contercraft",
+    "source": "assets/contercraft/textures/item/food/pie/apple.png",
+    "web": "assets/textures/contercraft/apple.png"
+  },
+  {
+    "origin": "contercraft",
+    "source": "assets/contercraft/textures/item/food/sushi/salmon.png",
+    "web": "assets/textures/contercraft/salmon.png"
+  },
+  {
+    "origin": "contercraft",
+    "source": "assets/contercraft/textures/item/book/upgrade_enchantment/upgrader.png",
+    "web": "assets/textures/contercraft/upgrader.png"
+  },
+  {
+    "origin": "contercraft",
+    "source": "assets/contercraft/textures/item/admin/scythe.png",
+    "web": "assets/textures/contercraft/scythe.png"
+  },
+  {
+    "origin": "obsidianbets",
+    "source": "assets/obsidianbets/textures/item/blackjack/stand.png",
+    "web": "assets/textures/obsidianbets/stand.png"
+  },
+  {
+    "origin": "obsidianbets",
+    "source": "assets/obsidianbets/textures/item/blackjack/double.png",
+    "web": "assets/textures/obsidianbets/double.png"
+  },
+  {
+    "origin": "obsidianbets",
+    "source": "assets/obsidianbets/textures/item/blackjack/deck_stack.png",
+    "web": "assets/textures/obsidianbets/deck_stack.png"
+  },
+  {
+    "origin": "obsidianbets",
+    "source": "assets/obsidianbets/textures/item/blackjack/cards/a_hearts.png",
+    "web": "assets/textures/obsidianbets/a_hearts.png"
+  },
+  {
+    "origin": "enchantencore",
+    "source": "assets/enchantencore/textures/item/enchanted_book_1.png",
+    "web": "assets/textures/enchantencore/enchanted_book_1.png"
+  },
+  {
+    "origin": "enchantencore",
+    "source": "assets/enchantencore/textures/item/enchanted_book_curse.png",
+    "web": "assets/textures/enchantencore/enchanted_book_curse.png"
+  },
+  {
+    "origin": "obsidianmodelengine",
+    "source": "assets/obsidian/textures/item/ome/violet-arcane-pickaxe/tex_0.png",
+    "web": "assets/textures/obsidianmodelengine/tex_0.png"
+  },
+  {
+    "origin": "obsidianmodelengine",
+    "source": "assets/obsidian/textures/item/ome/blaze-reimagined/tex_0.png",
+    "web": "assets/textures/obsidianmodelengine/tex_0.png"
+  }
+]
